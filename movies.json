@@ -1,0 +1,74 @@
+{ "movies" : [
+        {
+            "title": "Multiverse of Madness",
+            "year": 2022,
+            "rating": 9,
+            "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+            "poster": "/t/p/w600_and_h900_bestv2/wRnbWt44nKjsFPrqSmwYki5vZtF.jpg"
+            
+        },
+        {
+            "title": "Spider-Man: No Way Home",
+            "year":2021,
+            "rating": 8,
+            "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "poster": "/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+        },
+        {
+            "title": "Moonfall (2022)",
+            "year": 2022,
+            "rating": 6,
+            "description": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+            "poster": "/t/p/w600_and_h900_bestv2/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg"
+        },
+        {
+            "title": "Sonic the Hedgehog",
+            "year": 2020,
+            "rating": 7,
+            "description": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
+            "poster": "/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+        },
+        {
+            "title": "Hotel Transylvania: Transformania",
+            "year": 2022,
+            "rating": 7,
+            "description": "When Van Helsing's mysterious invention, the Monsterfication Ray, goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
+            "poster": "/t/p/w600_and_h900_bestv2/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg"
+        },
+        {
+            "title": "Morbius",
+            "year": 2022,
+            "rating": 5,
+            "description": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+            "poster": "/t/p/w600_and_h900_bestv2/6nhwr1LCozBiIN47b8oBEomOADm.jpg"
+        },
+        {
+            "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+            "year": 2020,
+            "rating": 8,
+            "description": "Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+            "poster": "/t/p/w600_and_h900_bestv2/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg"
+        },
+        {
+            "title": "Uncharted",
+            "year": 2022,
+            "rating": 7,
+            "description": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+            "poster": "/t/p/w600_and_h900_bestv2/sqLowacltbZLoCa4KYye64RvvdQ.jpg"
+        },
+        {
+            "title": "Desperate Riders",
+            "year": 2022,
+            "rating": 5,
+            "description": "After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?",
+            "poster": "/t/p/w600_and_h900_bestv2/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg"
+        },
+        {
+            "title": "Tom and Jerry: Cowboy Up!",
+            "year": 2022,
+            "rating": 7,
+            "description": "This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!",
+            "poster": "/t/p/w600_and_h900_bestv2/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg"
+        }        
+    ]
+}
