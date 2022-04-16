@@ -1,0 +1,89 @@
+nav {
+    position: relative;
+    list-style: none;
+    width: 100%;
+    background: $maincolor;
+    font-weight: 400;
+    font-size: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 20px;
+
+    ul {
+        li {
+            display: inline-block;
+            position: relative;
+            text-transform: uppercase;
+            padding: 15px 0;
+            text-align: center;
+            cursor: pointer;
+            z-index: 5;
+            width: $min-width;
+            transform: translateY(+5px);
+
+            &:hover > .drop{
+                display: block;
+            }
+
+            a {
+                font-size:  clamp(1rem, 1.25vw, 1.25rem);
+                text-decoration: none;
+                color: #ffffff;
+            }
+        }
+    }
+}
+
+// .findUS {
+//     background: rgb(43, 43, 43);
+//     border-radius: 2px;
+
+//     &:hover {
+//         background: $secondarycolor;
+//     }
+// }
+
+
+.drop{
+    display: none;
+    list-style: none;
+    position: absolute;
+    padding: 0;
+    width: 100%;
+    left: 0;
+    top: 45px;
+
+    li {
+                display: block;
+                text-transform: none;
+                padding: 10px;
+                width: 100%;
+                background: rgb(0, 0, 0) !important;
+                z-index: 1000;
+        
+                &:hover {
+                    border-bottom: 1px solid $secondarycolor;
+                }
+            }
+}
+
+
+#marker {
+    height: 2px;
+    background: $secondarycolor !important;
+    width: $min-width;
+    @include transition(all 0.35s);
+}
+
+@for $i from 1 through 4 {
+    #main li:nth-child(#{$i}) {
+        &:hover div {
+            @include transform(translate(0, 0));
+        }
+
+        &:hover ~ #marker {
+            @include transform(translate(#{(-1 + $i) * $min-width}, 0));
+        }
+    }
+}
